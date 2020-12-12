@@ -10,3 +10,7 @@
 
 - Here's my deployed application (https://govepitr.github.io/horiseon/)
 - GitHub repository https://github.com/Govepitr/horiseon.git
+
+Inline-style (hover to see title text):
+
+![alt text](assets/images/Screenshot.PNG"Title Text")
